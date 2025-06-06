@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo "COMPILING"
 zig build-exe zcat.zig
 
